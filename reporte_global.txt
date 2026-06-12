@@ -1,0 +1,12 @@
+--- REPORTE GLOBAL TECNOCELL ---
+Total de ventas: $6.800
+
+Celulares vendidos por modelo:
+- Galaxy A15: 1 unidades
+- iPhone 15 Pro: 3 unidades
+- Redmi Note 13 Pro: 2 unidades
+- Galaxy S24 Ultra: 1 unidades
+- Lumia 930: 5 unidades
+- Moto 45: 2 unidades
+
+[ERROR] No se pudo obtener información de la base de datos: Table 'tecnostore_db.creditos' doesn't exist
