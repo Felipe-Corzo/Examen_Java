@@ -273,4 +273,11 @@ private static final String PASSWORD = "<tu_contraseña>";
 - `tecnostore_db.sql` — Script de creación de tablas
 - `reporte_ventas.txt` — Generado automáticamente desde el módulo de Reportes
 - `README.md` — Este documento
-- Capturas de pantalla de cada módulo en funcionamiento
+- Capturas de pantalla de cada módulo en funcionamiento.
+
+
+
+
+
+## enlace conversacion 
+https://gemini.google.com/share/77d146fbb063
